@@ -179,8 +179,8 @@ class AntarcticaDynAR5(Component):
         """Project Antarctic rapid ice-sheet dynamics contribution to GMSLR.
 
         Parameters
-            ----------
-            fraction: np.ndarray
+        ----------
+        fraction: np.ndarray
             Random numbers for the dynamic contribution.
 
         Returns
